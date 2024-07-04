@@ -27,7 +27,4 @@ This page hosts:
 
 
 * * *
-hiii a
-
-[click here for the code](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/demo.cpp)
-
+hiii
