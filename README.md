@@ -10,10 +10,6 @@
 <dd>KLE Technological University, Hubballi-31</dd>
 </dl>
 
-> A step towards better e-commerce management
->
-> PH
-
 #### Note:
 This page hosts:
 
