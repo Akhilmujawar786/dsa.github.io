@@ -20,7 +20,7 @@
 4. Objectives
 5. Business Use Cases
 5. Challenges
-6. To-Do
+6. Refrences
 
 * * *
 **Optimizing Laundry Management within the Supply Chain Framework**
@@ -32,6 +32,12 @@ I chose to focus on laundry management because it addresses a critical need in e
 This portfolio meets the urgent need to revolutionize laundry management operations by implementing efficient strategies and frameworks. Laundry services are indispensable, particularly for hostel residents and busy individuals who rely on timely and reliable cleaning solutions. Optimizing these processes ensures faster turnaround times, reduced operational costs, and improved service quality, addressing the pressing need for efficient and scalable laundry management solutions.
 * * *
 ## DESIGN
+This portfolio explores advanced applications of supply chain management principles tailored specifically for the laundry services sector, aiming to redefine operational standards and customer satisfaction. It begins with a meticulous focus on optimizing load assignments using the Assignment Problem and the Hungarian Algorithm, meticulously fine-tuning processes to minimize processing times and maximize overall throughput. Strategic route optimization strategies, such as Vehicle Routing Problem (VRP) algorithms including Clarke-Wright Savings and Genetic Algorithms, are implemented to streamline the intricate logistics of collecting and delivering laundry items, significantly enhancing efficiency across the supply chain. Dijkstra's Algorithm is strategically deployed to meticulously map out transportation networks, effectively reducing travel distances and operational costs, thereby optimizing resource allocation. Quality assurance standards are upheld through the rigorous implementation of Six Sigma methodologies and Statistical Process Control (SPC), leveraging data-driven insights to maintain unwavering service excellence and ensure utmost client satisfaction.
+
+Moreover, meticulous inventory and resource management strategies are facilitated through the application of EOQ models and sophisticated inventory optimization algorithms, proactively mitigating risks of stockouts while curbing excess inventory costs. Radix Trees are seamlessly integrated to enable swift and accurate tracking of linens by associating client names with unique identifiers, ensuring expedited retrieval and meticulous inventory management. Dynamic load balancing across multiple washing machines is achieved through the agile deployment of Fenwick Trees, continuously optimizing machine workload distribution in real-time to maximize operational efficiency and mitigate downtime risks. Priority queues are harnessed to meticulously prioritize urgent tasks within job processing workflows, bolstering overall workflow efficiency and augmenting responsiveness in customer service delivery.
+
+Furthermore, stack-based systems are meticulously implemented to meticulously track every step of the laundry processing workflow, ensuring systematic adherence to operational protocols and efficient error management practices. Unordered maps are proficiently utilized to streamline payment management for laundry staff, ensuring seamless and accurate compensation processes. This multifaceted approach not only optimizes day-to-day laundry operations but also establishes a robust framework for sustained growth and operational excellence within the dynamic laundry management industry, underscoring a commitment to unparalleled service delivery and customer-centric operations.
+
 * * *
 ## OBJECTIVES
 1. Showcase how advanced algorithms and data structures streamline laundry processes, from efficient route planning for linen collection to dynamic resource allocation and inventory management.
