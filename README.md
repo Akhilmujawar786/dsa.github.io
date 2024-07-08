@@ -65,6 +65,7 @@ Customer Satisfaction: Ensures timely service delivery, meeting customer expecta
 **Complexity Analysis:**
 Time Complexity: O(n^3), where n is the number of loads or machines. This complexity arises due to the iterative steps involved in finding the optimal assignment using the Hungarian algorithm.
 Space Complexity: O(n^2), corresponding to the space required to store the cost matrix and associated data structures.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/Hungarian.cpp)
 ***
 ###2. **Vehicle Routing Problem (VRP) and its Optimization Challenges**
 **Algorithm Used:** Vehicle Routing Problem (VRP) with Ant Colony Optimization (ACO)
@@ -85,6 +86,7 @@ Operational Cost Savings: Lower operational costs due to optimized routes and re
 Time Complexity: Heuristic algorithms like Clarke-Wright Savings and Genetic Algorithms run in polynomial time, offering quick and near-optimal solutions. Exact algorithms such as branch-and-bound techniques for VRP are NP-hard, potentially needing exponential time in the worst case.
 
 Space Complexity: Space complexity mainly depends on the distance matrix and additional data structures used by the algorithm, typically ranging from O(n^2) to O(n!) based on algorithmic needs.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/VRP.cpp)
 ***
 ###3. **Optimizing Pathfinding Algorithms**
 **Algorithm Used:** Dijkstra's Algorithm,A (A-star) Algorithm
@@ -110,6 +112,7 @@ A Algorithm:*
 
 Time Complexity: In the best case, O(V), and in the worst case, O((V+E)logV), where V is the number of nodes and E is the number of edges.
 Space Complexity: O(V), where V is the number of nodes. This accounts for the storage of distances, heuristic values, and priority queue elements.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/Dijkstra's.cpp)
 ***
 ###4. **Enhancing Quality in Laundry Management with Six Sigma and Statistical Process Control (SPC)**
 **Algorithm Used:** Six Sigma or SPC
@@ -153,9 +156,11 @@ Space Complexity:
 
 Radix Tree: Space complexity is O(n * m), where n is the number of nodes (characters in the alphabet) and m is the average length of the keys (client names).
 Hash Map: Space complexity depends on the number of entries and the capacity of the hash map, typically O(n), where n is the number of entries.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/Radix.cpp)
 ***
-**Algorithm Used:** Fenwick Tree
 ###6. **Dynamic Load Balancing with Fenwick Trees in Laundry Management**
+**Algorithm Used:** Fenwick Tree
+
 **Use Case:**
 In laundry management, where efficient load distribution across washing machines is essential, Fenwick Trees offer a dynamic approach. Unlike static assignment methods, Fenwick Trees continuously adjust machine workloads based on current capacities and demands. This ensures each machine operates optimally, minimizing idle time and maximizing throughput. The system maintains an indexed structure for rapid updates and queries, adapting swiftly to changes in laundry demand and machine availability.
 
@@ -172,6 +177,7 @@ Adaptability: Responds swiftly to fluctuations in laundry demand, ensuring consi
 
 Time Complexity: Both update and query operations on a Fenwick Tree are O(log N), where N is the number of machines or items being managed.
 Space Complexity: Requires O(N) space to store the Fenwick Tree structure, where N is the number of washing machines.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/fenwick.cpp)
 ***
 ###7. **Optimizing Job Processing and Resource Allocation with Priority Queues in Laundry Management**
 **Algorithm Used:** Priority Queue
@@ -193,6 +199,7 @@ Customer Satisfaction: Leads to improved customer satisfaction through timely ha
 
 Time Complexity: Both insertion and deletion operations in a priority queue (implemented as a heap) are O(log n), where n is the number of tasks.
 Space Complexity: Requires O(n) space to store the priority queue structure.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/priority.cpp)
 ***
 ###8. **Enhancing Laundry Processing Efficiency with Stack-Based Workflow Management**
 **Algorithm Used:** Stacks
@@ -213,9 +220,11 @@ Error Resilience: Facilitates easy error correction without disrupting the entir
 **Complexity Analysis:**
 
 Time Complexity: Both push and pop operations in a stack are O(1), providing efficient insertion and retrieval of processing steps.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/stack.cpp)
 ***
-**Algorithm Used:** Unordered map
 ###9. **Streamlining Payment Management with Unordered Maps in Laundry Operations**
+**Algorithm Used:** Unordered map
+
 **Use Case:**
 In laundry management, efficiently managing payments for staff members is essential for smooth financial operations. Using an unordered map allows the laundry management system to store and update payment information in real-time based on each staff member's ID. When a payment is processed, it is swiftly added to the corresponding staff member's total payment record in the unordered map. This approach ensures that payment information is accurate and readily accessible whenever needed, facilitating timely financial management and staff compensation.
 
@@ -233,9 +242,11 @@ Real-Time Updates: Facilitates real-time updates and retrievals of payment infor
 
 Time Complexity: O(1) average-time complexity for insertions, deletions, and lookups in the unordered map. However, worst-case time complexity can degrade to O(n) due to hash collisions.
 Space Complexity: O(n), where n is the number of staff members, as the space required grows linearly with the number of entries in the unordered map.
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/map.cpp)
 ***
-**Algorithm Used:** Knapsack algorithm
 ###10. **Optimizing Inventory Management with the Knapsack Algorithm in Laundry Operations**
+**Algorithm Used:** Knapsack algorithm
+
 In laundry management, efficient inventory management is crucial for maintaining operational continuity and service quality. The knapsack algorithm is employed to determine the optimal combination of supplies to restock within a specified budget. Each supply item is evaluated based on its cost and utility value (e.g., how essential it is to laundry operations), enabling the laundryman to make informed decisions that balance cost-effectiveness with inventory sufficiency. By maximizing utility while staying within budget constraints, this approach ensures that essential materials are always available, minimizing stockouts and reducing waste. This systematic restocking method contributes to smoother operations, consistent service quality, and enhanced customer satisfaction.
 **Challenges:**
 Complexity of Choices: Evaluating a large number of supply items and their combinations to find the optimal solution can be computationally intensive.
@@ -250,4 +261,5 @@ Service Quality: Ensures that essential materials are consistently available, le
 
 Time Complexity: O(n * W), where n is the number of supply items and W is the budget constraint. The dynamic programming approach computes the optimal solution efficiently within this time complexity.
 Space Complexity: O(n * W), where n is the number of supply items. The space required grows proportionally with the number of items and the budget constraint
+[Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/knapsack.cpp)
 ***
