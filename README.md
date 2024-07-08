@@ -349,3 +349,4 @@ In laundry management, efficient inventory management is crucial for maintaining
 - https://www.geeksforgeeks.org/introduction-to-ant-colony-optimization/
 - https://www.programiz.com/cpp-programming/unordered-map
 - https://www.javatpoint.com/0-1-knapsack-problem
+- https://cdn.corporatefinanceinstitute.com/assets/six-sigma1.png
