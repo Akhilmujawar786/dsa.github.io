@@ -20,7 +20,7 @@
 4. Objectives
 5. Business Use Cases
 5. Challenges
-6. Refrences
+6. References
 
 * * *
 **Optimizing Laundry Management within the Supply Chain Framework**
