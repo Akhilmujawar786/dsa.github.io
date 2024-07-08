@@ -338,16 +338,17 @@ In laundry management, efficient inventory management is crucial for maintaining
 
 * * *
 ## REFRENCES
-1. [SCM](https://www.investopedia.com/terms/s/scm.asp)
-2. [Supply Chain Management](https://en.wikipedia.org/wiki/Supply_chain_management)
-3. [VRP](https://developers.google.com/optimization/routing/vrp)
-4. [A* Algorithm](https://www.geeksforgeeks.org/a-search-algorithm/)
-5. [Laundry Management Systems](https://bundlelaundry.com/2018/11/02/what-are-laundry-management-systems/)
-6. [Performance Goals](https://simbline.com/phrases/performance-goals/laundry)
-7. [Six Sigma](https://corporatefinanceinstitute.com/resources/management/six-sigma/)
-8. [Radix Tree](https://iq.opengenus.org/radix-tree/)
-9. [Ant Colony Optimization](https://www.geeksforgeeks.org/introduction-to-ant-colony-optimization/)
-10. [Unordered Map](https://www.programiz.com/cpp-programming/unordered-map)
-11. [0-1 Knapsack Problem](https://www.javatpoint.com/0-1-knapsack-problem)
-12. [Six Sigma Diagram](https://cdn.corporatefinanceinstitute.com/assets/six-sigma1.png)
+[1] SCM: https://www.investopedia.com/terms/s/scm.asp
+[2] Supply Chain Management: https://en.wikipedia.org/wiki/Supply_chain_management
+[3] VRP: https://developers.google.com/optimization/routing/vrp
+[4] A* Algorithm: https://www.geeksforgeeks.org/a-search-algorithm/
+[5] Laundry Management Systems: https://bundlelaundry.com/2018/11/02/what-are-laundry-management-systems/
+[6] Performance Goals: https://simbline.com/phrases/performance-goals/laundry
+[7] Six Sigma: https://corporatefinanceinstitute.com/resources/management/six-sigma/
+[8] Radix Tree: https://iq.opengenus.org/radix-tree/
+[9] Ant Colony Optimization: https://www.geeksforgeeks.org/introduction-to-ant-colony-optimization/
+[10] Unordered Map: https://www.programiz.com/cpp-programming/unordered-map
+[11] 0-1 Knapsack Problem: https://www.javatpoint.com/0-1-knapsack-problem
+[12] Six Sigma Diagram: https://cdn.corporatefinanceinstitute.com/assets/six-sigma1.png
+
 
