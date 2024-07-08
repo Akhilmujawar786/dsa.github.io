@@ -360,6 +360,6 @@ In laundry management, efficient inventory management is crucial for maintaining
 
 [11] 0-1 Knapsack Problem: [https://www.javatpoint.com/0-1-knapsack-problem](https://www.javatpoint.com/0-1-knapsack-problem)
 
-[12] Six Sigma Diagram: ![https://cdn.corporatefinanceinstitute.com/assets/six-sigma1.png](https://cdn.corporatefinanceinstitute.com/assets/six-sigma1.png)
+[12] Six Sigma Diagram: ![https://cdn.corporatefinanceinstitute.com/assets/six-sigma1.png]
 
 
