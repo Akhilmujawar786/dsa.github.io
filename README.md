@@ -11,9 +11,10 @@
 </dl>
 <dt>Course Instructor</dt>
 <dd>Prakash Hegade</dd> 
+<img src="(https://www.udvavan.com/Content/images/products/laundry_management.jpg)" alt="Laundry" width="20" height="20">
 
 ***
-
+## CONTENT
 1. Introduction
 2. Why Portfolio
 3. Design
