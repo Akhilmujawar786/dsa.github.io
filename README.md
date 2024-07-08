@@ -41,26 +41,30 @@ This portfolio meets the urgent need to revolutionize laundry management operati
 5.  Emphasize the portfolio's focus on enhancing customer experience through efficient service delivery, transparent operational practices, and reliable performance metrics.
 * * *
 ## BUSINESS USE CASES
-**1.** **Optimizing Laundry Operations with Efficient Load Assignment**
+### 1. Optimizing Laundry Operations with Efficient Load Assignment
+
 **Algorithm Used:** Hungarian Algorithm
 
-**Use Case:**
+#### Use Case:
+
 In laundry management, the Hungarian algorithm is applied to optimize the assignment of loads to washing machines. Each load and machine pairing is represented in a cost matrix, where the elements denote the processing time required for each load on each machine. The goal is to assign loads to machines in a way that minimizes the total processing time, ensuring efficient use of resources and timely service delivery.
 
-**Challenges:**
--Complexity: Handling large datasets with numerous load-machine combinations.
--Dynamic Environment: Adapting to fluctuating demands and varying load sizes.
--Optimization: Balancing between minimizing processing time and maintaining machine efficiency.
+#### Challenges:
 
-**Benefits:**
--Efficiency: Minimizes total processing time, enhancing throughput and operational efficiency.
--Resource Utilization: Optimizes the allocation of machines based on workload and capacity.
--Customer Satisfaction: Ensures timely service delivery, meeting customer expectations.
+- Complexity: Handling large datasets with numerous load-machine combinations.
+- Dynamic Environment: Adapting to fluctuating demands and varying load sizes.
+- Optimization: Balancing between minimizing processing time and maintaining machine efficiency.
 
-**Complexity Analysis:**
-Time Complexity: O(n^3), where n is the number of loads or machines. This complexity arises due to the iterative steps involved in finding the optimal assignment using the Hungarian algorithm.
+#### Benefits:
 
-Space Complexity: O(n^2), corresponding to the space required to store the cost matrix and associated data structures.
+- Efficiency: Minimizes total processing time, enhancing throughput and operational efficiency.
+- Resource Utilization: Optimizes the allocation of machines based on workload and capacity.
+- Customer Satisfaction: Ensures timely service delivery, meeting customer expectations.
+
+#### Complexity Analysis:
+
+- Time Complexity: O(n^3), where n is the number of loads or machines. This complexity arises due to the iterative steps involved in finding the optimal assignment using the Hungarian algorithm.
+- Space Complexity: O(n^2), corresponding to the space required to store the cost matrix and associated data structures.
 
 [Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/Hungarian.cpp)
 
