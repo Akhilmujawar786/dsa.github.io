@@ -263,3 +263,15 @@ Time Complexity: O(n * W), where n is the number of supply items and W is the bu
 Space Complexity: O(n * W), where n is the number of supply items. The space required grows proportionally with the number of items and the budget constraint
 [Code for the above business use case](https://github.com/Akhilmujawar786/dsa.github.io/blob/main/knapsack.cpp)
 ***
+## REFRENCES
+- https://www.investopedia.com/terms/s/scm.asp
+- https://en.wikipedia.org/wiki/Supply_chain_management
+- https://developers.google.com/optimization/routing/vrp
+- https://www.geeksforgeeks.org/a-search-algorithm/
+- https://bundlelaundry.com/2018/11/02/what-are-laundry-management-systems/
+- https://simbline.com/phrases/performance-goals/laundry
+- https://corporatefinanceinstitute.com/resources/management/six-sigma/
+- https://iq.opengenus.org/radix-tree/
+- https://www.geeksforgeeks.org/introduction-to-ant-colony-optimization/
+- https://www.programiz.com/cpp-programming/unordered-map
+- https://www.javatpoint.com/0-1-knapsack-problem
